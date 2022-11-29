@@ -2,13 +2,13 @@
 
 # Hi My name is *Moussa* 👋
 
-## I'm a junior web & mobile devlopper
+## I'm a junior web & mobile developper
 
 welcome in my world:
 - 🔭 I’m currently working on new *project*...
 - 🌱 I’m currently learning *amazind things*...
 - 💬 Ask me about *what you want*...
-- 📫 How to reach me: *email, linkedIN, tweeter*...
+- 📫 How to reach me: *email, linkedIn, tweeter*...
 - ⚡ Fun fact: *Soccer, PlayStation(fifa, call of duty)*...
 
 ### Langages & Tools:
@@ -24,8 +24,7 @@ welcome in my world:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px"  style="padding-right:11px;"/>
   
 # Connect with me:
-<!-- [![img_contact](https://www.svgrepo.com/show/183608/twitter.svg)](https://www.google.com) -->
 [<img src="https://www.svgrepo.com/show/183608/twitter.svg" align="left" width="30px" style="padding-right:11px" />](https://twitter.com/Musasagna08)
-[<img src="https://www.svgrepo.com/show/111199/instagram.svg" align="lft" width="30px" style="padding-right:11px"/>](https://www.google.com)
-[<img src="https://www.svgrepo.com/show/157006/linkedin.svg" align="left" width="30px" style="padding-right:11px"/>](https://www.google.com)
+[<img src="https://www.svgrepo.com/show/111199/instagram.svg" align="lft" width="30px" style="padding-right:11px"/>](https://www.instagram.com/moussa__sg/)
+[<img src="https://www.svgrepo.com/show/157006/linkedin.svg" align="left" width="30px" style="padding-right:11px"/>](https://www.linkedin.com/in/moussa-sagna08/)
 
