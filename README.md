@@ -1,3 +1,5 @@
+<p><img src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e470gpuqtj43h8jnqhf6ar0e12sf8lhgkcj2d6z8xn6&rid=giphy.gif&ct=g" alt="gif hello world" width="500px" height="300px"/></p> 
+
 # Hi My name is *Moussa* 👋
 
 ## I'm a junior web & mobile devlopper
@@ -19,3 +21,4 @@ welcome in my world:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30px" align="left" style="padding-right:11px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="30px"  align="left" style="padding-right:11px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px"  align="left" style="padding-right:11px"/>
+### Connect with me
