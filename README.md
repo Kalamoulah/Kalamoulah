@@ -22,6 +22,8 @@ welcome in my world:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30px" align="left" style="padding-right:11px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="30px"  align="left" style="padding-right:11px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px"  style="padding-right:11px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="figma" width="30px"  style="padding-right:11px;"/>
+ 
   
 # Connect with me:
 [<img src="https://www.svgrepo.com/show/183608/twitter.svg" align="left" width="30px" style="padding-right:11px" />](https://twitter.com/Musasagna08)
