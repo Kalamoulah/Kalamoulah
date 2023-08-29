@@ -30,3 +30,7 @@ welcome in my world:
 [<img src="https://www.svgrepo.com/show/111199/instagram.svg" align="lft" width="30px" style="padding-right:11px"/>](https://www.instagram.com/moussa__sg/)
 [<img src="https://www.svgrepo.com/show/157006/linkedin.svg" align="left" width="30px" style="padding-right:11px"/>](https://www.linkedin.com/in/moussa-sagna08/)
 
+# Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&theme=transparent)
+
+
