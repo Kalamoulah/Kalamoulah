@@ -32,6 +32,7 @@ welcome in my world:
 
 # Stats:
 ![Kalamoula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&theme=transparent)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&locale=en" alt="kalamoulah" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalamoulah&" alt="kalamoulah" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalamoulah&show_icons=true&locale=en&layout=compact" alt="kalamoulah" />
 
 
