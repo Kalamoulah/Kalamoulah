@@ -22,7 +22,7 @@ welcome in my world:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30px" align="left" style="padding-right:11px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="30px"  align="left" style="padding-right:11px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px"  style="padding-right:11px;"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="figma" width="30px"  style="padding-right:11px;"/>
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
  
   
 # Connect with me:
@@ -31,6 +31,7 @@ welcome in my world:
 [<img src="https://www.svgrepo.com/show/157006/linkedin.svg" align="left" width="30px" style="padding-right:11px"/>](https://www.linkedin.com/in/moussa-sagna08/)
 
 # Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&theme=transparent)
+![Kalamoula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&theme=transparent)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&locale=en" alt="kalamoulah" />
 
 
