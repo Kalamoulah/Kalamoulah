@@ -2,7 +2,7 @@
 
 # Hi My name is *Moussa* 👋
 
-## I'm a junior web & mobile developper
+## I'm a web & mobile developper
 
 welcome in my world:
 - 🔭 I’m currently working on new *project*...
