@@ -30,10 +30,5 @@ welcome in my world:
 [<img src="https://www.svgrepo.com/show/111199/instagram.svg" align="lft" width="30px" style="padding-right:11px"/>](https://www.instagram.com/moussa__sg/)
 [<img src="https://www.svgrepo.com/show/157006/linkedin.svg" align="left" width="30px" style="padding-right:11px"/>](https://www.linkedin.com/in/moussa-sagna08/)
 
-# Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalamoulah&show_icons=true&locale=en&layout=compact" alt="Kalamoulah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalamoulah&show_icons=true&locale=en" alt="Kalamoulah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalamoulah&" alt="Kalamoulah" /></p>
 
