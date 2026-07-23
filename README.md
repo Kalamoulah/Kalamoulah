@@ -49,6 +49,7 @@ Développeur **Full-Stack** basé à Dakar 🇸🇳, avec ~3 ans d'expérience s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
 </p>
 
 <sub>PWA (Progressive Web Apps) également dans ma boîte à outils.</sub>
@@ -85,9 +86,9 @@ Développeur **Full-Stack** basé à Dakar 🇸🇳, avec ~3 ans d'expérience s
 
 <p align="center">
   <!-- Badge du nombre de repos -->
-  <img src="https://img.shields.io/badge/📁%20Repos%20publics-XX-blue?style=for-the-badge&color=6366F1" />
+  <img src="https://img.shields.io/badge/📁%20Repos%20publics-27-blue?style=for-the-badge&color=6366F1" />
   <!-- Badge du nombre de followers -->
-
+  <img src="https://img.shields.io/badge/📁%20Repos%20privés-27-blue?style=for-the-badge&color=6366F1" />
   <!-- Badge du nombre d'étoiles -->
   <img src="https://img.shields.io/badge/⭐%20Total%20Stars-XX-blue?style=for-the-badge&color=EC4899" />
 </p>
