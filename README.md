@@ -86,11 +86,10 @@ Développeur **Full-Stack** basé à Dakar 🇸🇳, avec ~3 ans d'expérience s
 
 <p align="center">
   <!-- Badge du nombre de repos -->
-  <img src="https://img.shields.io/badge/📁%20Repos%20publics-27-blue?style=for-the-badge&color=6366F1" />
+  <img src="https://img.shields.io/badge/📁%20Repos%20publics-28-blue?style=for-the-badge&color=6366F1" />
   <!-- Badge du nombre de followers -->
   <img src="https://img.shields.io/badge/📁%20Repos%20privés-27-blue?style=for-the-badge&color=6366F1" />
-  <!-- Badge du nombre d'étoiles -->
-  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-XX-blue?style=for-the-badge&color=EC4899" />
+
 </p>
 
 ---
@@ -104,8 +103,7 @@ Développeur **Full-Stack** basé à Dakar 🇸🇳, avec ~3 ans d'expérience s
   <!-- Badge des langages les plus utilisés -->
   <img src="https://img.shields.io/badge/🛠️%20Langage%20principal-TypeScript-blue?style=for-the-badge&color=0EA5E9" />
   
-  <!-- Badge du framework préféré -->
-  <img src="https://img.shields.io/badge/⚡%20Framework%20préféré-Next.js-blue?style=for-the-badge&color=EC4899" />
+ 
 </p>
 
 ---
