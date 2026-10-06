@@ -53,8 +53,6 @@ Développeur **Full-Stack** basé à Dakar 🇸🇳, avec ~3 ans d'expérience s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
 </p>
 
-
-
 ---
 
 ### 📊 Stats GitHub
@@ -68,32 +66,7 @@ Développeur **Full-Stack** basé à Dakar 🇸🇳, avec ~3 ans d'expérience s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalamoulah&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=0EA5E9&currStreakLabel=6366F1" />
 </p>
 
----
 
-### 🏆 Statistiques supplémentaires
-
-<p align="center">
-  <!-- Nombre total de contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalamoulah&show=total_contributions&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6366F1" width="400" />
-  
-  <!-- Activité récente -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalamoulah&theme=react-dark&bg_color=0D1117&color=6366F1&line=0EA5E9&point=FFFFFF&hide_border=true" width="800" />
-</p>
-
-<p align="center">
-  <!-- Badges et trophées -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalamoulah&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
-
-<p align="center">
-  <!-- Badge du nombre de repos -->
-  <img src="https://img.shields.io/badge/📁%20Repos%20publics-28-blue?style=for-the-badge&color=6366F1" />
-  <!-- Badge du nombre de followers -->
-  <img src="https://img.shields.io/badge/📁%20Repos%20privés-27-blue?style=for-the-badge&color=6366F1" />
-
-</p>
-
----
 
 ### 📈 Vue d'ensemble
 
